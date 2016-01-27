@@ -1,19 +1,18 @@
 {
   "name": "textile-preview",
   "main": "./lib/textile-preview",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Open a rendered version of the text marked-up with Textile",
   "repository": "https://github.com/muffinmad/atom-textile-preview",
   "license": "MIT",
-  "keywords": [
-  ],
+  "keywords": [],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-      "atom-space-pen-views": "^2.0.0",
-      "underscore-plus": "^1.5.0",
-      "fs-plus": "^2.0.0",
-      "cheerio": "0.15.0"
+    "atom-space-pen-views": "^2.0.0",
+    "underscore-plus": "^1.5.0",
+    "fs-plus": "^2.0.0",
+    "cheerio": "0.15.0"
   }
 }
