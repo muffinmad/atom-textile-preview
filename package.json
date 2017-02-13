@@ -1,7 +1,7 @@
 {
   "name": "textile-preview",
   "main": "./lib/textile-preview",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Open a rendered version of the text marked-up with Textile",
   "repository": "https://github.com/muffinmad/atom-textile-preview",
   "license": "MIT",
